@@ -1,6 +1,6 @@
 # Turtle Crossing Game
 
-![Turtle Crossing Game](assets/turtle_crossing_game.PNG)
+<img src="assets/turtle_crossing_game.PNG" style="width: 400px; height=500px">
 
 Welcome to the "Turtle Crossing Game" repository! This simple Python game challenges you to help a turtle safely cross a busy road filled with cars. Follow the instructions below to set up and play the game.
 
